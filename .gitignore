@@ -5,5 +5,6 @@ OpenDis.make
 *.sln
 *.sdf
 *.suo
+.vs/
 obj/
 Build/
